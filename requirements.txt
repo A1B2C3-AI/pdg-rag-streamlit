@@ -1,3 +1,10 @@
+streamlit
 langchain
 langchain-community
+langchain-core
+langchain-text-splitters
+langchain-ollama
 pymupdf
+chromadb
+sentence-transformers
+huggingface-hub
